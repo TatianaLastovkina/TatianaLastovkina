@@ -15,15 +15,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![DataLens](https://img.shields.io/badge/-DataLens-0078D4?logo=yandex&logoColor=white)
-![Superset](https://img.shields.io/badge/-Superset-20A6FF?logo=apachesuperset&logoColor=white)
+![Yandex DataLens](https://img.shields.io/badge/-DataLens-0078D4?logo=yandex&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/-Superset-20A6FF?logo=apachesuperset&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white)
 
 ---
 
 ## Связаться со мной
 
-📬 Telegram: [@tatianalast](https://t.me/tatianalast)
+[![Telegram](https://img.shields.io/badge/Telegram-@tatianalast-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tatianalast)
 
 ---
 
