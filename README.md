@@ -1,12 +1,11 @@
-### Привет! Меня зовут Татьяна 👋
+## Привет! Меня зовут Татьяна 👋
 
 Около 10 лет я работала в сфере обслуживания корпоративных клиентов — умею находить к ним подход и доступно объяснять сложные вещи.
 
 На последнем месте работы много взаимодействовала с дашбордами как пользователь: давала обратную связь аналитикам по ошибкам и улучшениям. Мне стало интересно, как это всё устроено внутри, и я прошла курс по аналитике данных и BI-аналитике.
 
-Теперь я точно знаю, что **получаю огромное удовольствие, превращая большие структуры данных в ёмкие и понятные графики** 📊
+Теперь я точно знаю, что получаю огромное удовольствие, превращая большие структуры данных в ёмкие и понятные графики 📊
 
----
 
 ## Мой стек
 
@@ -19,14 +18,10 @@
 ![Apache Superset](https://img.shields.io/badge/-Superset-20A6FF?logo=apachesuperset&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white)
 
----
 
 ## Связаться со мной
 
-<a href="https://t.me/tatianalast" target="_blank">
-  <img src="https://telegram.org/img/t_logo.png" alt="Telegram" width="24" height="24" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">@tatianalast</span>
-</a>
+[![Telegram](https://img.shields.io/badge/-@tatianalast-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tatianalast)
 
 ---
 
