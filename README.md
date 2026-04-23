@@ -23,7 +23,10 @@
 
 ## Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-@tatianalast-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tatianalast)
+<a href="https://t.me/tatianalast" target="_blank">
+  <img src="https://telegram.org/img/t_logo.png" alt="Telegram" width="24" height="24" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">@tatianalast</span>
+</a>
 
 ---
 
