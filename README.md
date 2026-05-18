@@ -18,6 +18,13 @@
 ![Apache Superset](https://img.shields.io/badge/-Superset-20A6FF?logo=apachesuperset&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-050038?logo=miro&logoColor=white)
 
+## Мои проекты
+
+### Анализ рынка недвижимости
+[real-estate-analysis](https://github.com/TatianaLastovkina/real_estate_analysis.git) — Анализ 24 000 объявлений о продаже квартир в Санкт-Петербурге и Ленобласти с помощью SQL и DataLens.
+
+### Исследование стартапов
+[startup-research](https://github.com/TatianaLastovkina/startup_research_project.git) — Анализ данных о стартапах для выявления компаний, привлекательных для покупки и перепродажи.
 
 ## Связаться со мной
 
